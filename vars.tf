@@ -5,4 +5,4 @@ variable "NAME" {}
 variable "SKIP_FINAL_SNAPSHOT" {}
 variable "ENV" {}
 variable "COMPONENT" {}
-
+variable "SUBNET_IDS" {}
